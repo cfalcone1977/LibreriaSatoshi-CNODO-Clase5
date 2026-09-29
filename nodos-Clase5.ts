@@ -341,6 +341,7 @@ async function conectarYMantenerTop8() {
                         console.log(`==> [${nodo.ip}] RECIBIDO 'ping'`);
                         const pongHeader = createHeader('pong', messagePayload);
                         socket.write(Buffer.concat([pongHeader, messagePayload]));
+                        console.log(`<-- [${nodo.ip}] ENVIANDO 'pong'`);
                     }
                 }
             });
@@ -415,7 +416,6 @@ function iniciarServidorBitcoin() {
                             return;
                         }
                     }
-
                     const protocolVersion = messagePayload.readInt32LE(offset);
                     console.log(`--> [SERVIDOR] Recibido 'version' de ${remoteIp} (Protocolo: ${protocolVersion})`);
 
@@ -431,8 +431,10 @@ function iniciarServidorBitcoin() {
                     console.log(`--> [SERVIDOR] Recibido 'verack' de ${remoteIp}. ¡Handshake completado como servidor!`);
 
                 } else if (command === 'ping') {
+                    console.log(`--> [SERVIDOR] RECIBIDO 'ping' de ${remoteIp}`);
                     const pongHeader = createHeader('pong', messagePayload);
                     socket.write(Buffer.concat([pongHeader, messagePayload]));
+                    console.log(`<-- [SERVIDOR] ENVIANDO 'pong' a ${remoteIp}`);
                 }
             }
         });

@@ -1,272 +1,260 @@
 [
   {
-    "ip": "34.48.164.125",
+    "ip": "168.93.43.161",
     "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 165,
+    "latencyMs": 166,
     "status": "online"
   },
   {
-    "ip": "172.105.26.42",
-    "seed": "seed.btc.petertodd.net",
+    "ip": "24.126.175.8",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 167,
+    "status": "online"
+  },
+  {
+    "ip": "139.177.195.43",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 168,
+    "status": "online"
+  },
+  {
+    "ip": "32.217.31.151",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 172,
+    "status": "online"
+  },
+  {
+    "ip": "100.14.124.203",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 172,
+    "status": "online"
+  },
+  {
+    "ip": "50.116.25.236",
+    "seed": "seed.bitcoin.sipa.be",
     "latencyMs": 174,
     "status": "online"
   },
   {
-    "ip": "69.121.21.120",
+    "ip": "139.177.194.70",
     "seed": "seed.btc.petertodd.net",
-    "latencyMs": 174,
-    "status": "online"
-  },
-  {
-    "ip": "34.106.53.91",
-    "seed": "seed.bitcoin.sipa.be",
     "latencyMs": 175,
     "status": "online"
   },
   {
-    "ip": "136.62.137.44",
+    "ip": "74.39.22.214",
     "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 179,
+    "latencyMs": 182,
     "status": "online"
   },
   {
-    "ip": "34.106.169.146",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 180,
-    "status": "online"
-  },
-  {
-    "ip": "136.49.210.28",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 181,
-    "status": "online"
-  },
-  {
-    "ip": "73.117.138.122",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 186,
-    "status": "online"
-  },
-  {
-    "ip": "50.40.168.154",
+    "ip": "98.26.192.74",
     "seed": "seed.btc.petertodd.net",
-    "latencyMs": 191,
+    "latencyMs": 182,
     "status": "online"
   },
   {
-    "ip": "174.93.168.186",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 194,
-    "status": "online"
-  },
-  {
-    "ip": "208.97.57.30",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 201,
-    "status": "online"
-  },
-  {
-    "ip": "69.36.52.44",
+    "ip": "68.1.224.37",
     "seed": "seed.btc.petertodd.net",
+    "latencyMs": 183,
+    "status": "online"
+  },
+  {
+    "ip": "172.236.116.221",
+    "seed": "seed.btc.petertodd.net",
+    "latencyMs": 184,
+    "status": "online"
+  },
+  {
+    "ip": "107.171.160.165",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 196,
+    "status": "online"
+  },
+  {
+    "ip": "23.245.136.142",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 198,
+    "status": "online"
+  },
+  {
+    "ip": "107.206.254.47",
+    "seed": "seed.bitcoin.sipa.be",
     "latencyMs": 204,
     "status": "online"
   },
   {
-    "ip": "66.160.128.215",
+    "ip": "172.236.224.188",
     "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 213,
+    "latencyMs": 204,
     "status": "online"
   },
   {
-    "ip": "12.11.29.34",
+    "ip": "172.234.224.186",
     "seed": "seed.btc.petertodd.net",
-    "latencyMs": 214,
+    "latencyMs": 212,
     "status": "online"
   },
   {
-    "ip": "176.84.181.102",
+    "ip": "73.202.32.81",
     "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 236,
+    "latencyMs": 223,
     "status": "online"
   },
   {
-    "ip": "50.126.134.176",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 236,
-    "status": "online"
-  },
-  {
-    "ip": "172.234.236.97",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 236,
-    "status": "online"
-  },
-  {
-    "ip": "172.233.49.53",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 244,
-    "status": "online"
-  },
-  {
-    "ip": "172.105.244.10",
+    "ip": "13.39.131.42",
     "seed": "seed.btc.petertodd.net",
-    "latencyMs": 244,
+    "latencyMs": 225,
     "status": "online"
   },
   {
-    "ip": "172.104.252.51",
+    "ip": "23.175.0.222",
     "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 245,
+    "latencyMs": 230,
     "status": "online"
   },
   {
-    "ip": "172.104.230.173",
+    "ip": "70.71.174.35",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 233,
+    "status": "online"
+  },
+  {
+    "ip": "139.162.185.213",
     "seed": "seed.btc.petertodd.net",
-    "latencyMs": 245,
+    "latencyMs": 237,
     "status": "online"
   },
   {
-    "ip": "18.170.144.243",
+    "ip": "172.104.230.159",
+    "seed": "seed.btc.petertodd.net",
+    "latencyMs": 237,
+    "status": "online"
+  },
+  {
+    "ip": "83.52.224.200",
+    "seed": "seed.btc.petertodd.net",
+    "latencyMs": 238,
+    "status": "online"
+  },
+  {
+    "ip": "46.166.142.2",
+    "seed": "seed.btc.petertodd.net",
+    "latencyMs": 238,
+    "status": "online"
+  },
+  {
+    "ip": "139.162.188.168",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 239,
+    "status": "online"
+  },
+  {
+    "ip": "139.162.185.118",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 239,
+    "status": "online"
+  },
+  {
+    "ip": "139.162.170.136",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 240,
+    "status": "online"
+  },
+  {
+    "ip": "87.208.50.232",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 240,
+    "status": "online"
+  },
+  {
+    "ip": "146.90.189.106",
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 242,
+    "status": "online"
+  },
+  {
+    "ip": "35.194.121.184",
+    "seed": "seed.btc.petertodd.net",
+    "latencyMs": 242,
+    "status": "online"
+  },
+  {
+    "ip": "31.20.23.148",
     "seed": "seed.bitcoin.sipa.be",
     "latencyMs": 246,
     "status": "online"
   },
   {
-    "ip": "91.223.103.23",
+    "ip": "88.140.188.59",
     "seed": "seed.bitcoin.sipa.be",
     "latencyMs": 246,
     "status": "online"
   },
   {
-    "ip": "134.65.193.149",
-    "seed": "seed.btc.petertodd.net",
-    "latencyMs": 246,
-    "status": "online"
-  },
-  {
-    "ip": "3.9.50.46",
+    "ip": "18.102.127.244",
     "seed": "seed.btc.petertodd.net",
     "latencyMs": 247,
     "status": "online"
   },
   {
-    "ip": "172.105.244.163",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 248,
-    "status": "online"
-  },
-  {
-    "ip": "81.32.8.150",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 248,
-    "status": "online"
-  },
-  {
-    "ip": "172.233.48.236",
+    "ip": "5.61.52.189",
     "seed": "seed.btc.petertodd.net",
     "latencyMs": 250,
     "status": "online"
   },
   {
-    "ip": "185.203.41.148",
+    "ip": "65.108.127.212",
     "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 255,
+    "latencyMs": 263,
     "status": "online"
   },
   {
-    "ip": "93.238.10.210",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 260,
-    "status": "online"
-  },
-  {
-    "ip": "5.75.216.30",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 260,
-    "status": "online"
-  },
-  {
-    "ip": "116.203.11.226",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 261,
-    "status": "online"
-  },
-  {
-    "ip": "2.4.162.244",
-    "seed": "seed.btc.petertodd.net",
-    "latencyMs": 261,
-    "status": "online"
-  },
-  {
-    "ip": "178.63.78.102",
-    "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 262,
-    "status": "online"
-  },
-  {
-    "ip": "13.53.88.24",
-    "seed": "seed.btc.petertodd.net",
-    "latencyMs": 262,
-    "status": "online"
-  },
-  {
-    "ip": "164.215.119.118",
+    "ip": "91.92.199.207",
     "seed": "seed.bitcoin.sipa.be",
     "latencyMs": 269,
     "status": "online"
   },
   {
-    "ip": "87.128.47.15",
+    "ip": "46.13.174.27",
     "seed": "seed.btc.petertodd.net",
     "latencyMs": 272,
     "status": "online"
   },
   {
-    "ip": "194.126.112.115",
-    "seed": "seed.btc.petertodd.net",
-    "latencyMs": 273,
-    "status": "online"
-  },
-  {
-    "ip": "34.92.233.106",
-    "seed": "seed.btc.petertodd.net",
-    "latencyMs": 291,
-    "status": "online"
-  },
-  {
-    "ip": "178.55.181.120",
-    "seed": "seed.btc.petertodd.net",
-    "latencyMs": 315,
-    "status": "online"
-  },
-  {
-    "ip": "34.101.179.157",
+    "ip": "45.126.45.243",
     "seed": "seed.bitcoin.sipa.be",
-    "latencyMs": 321,
-    "status": "online"
-  },
-  {
-    "ip": "34.151.90.204",
-    "seed": "seed.btc.petertodd.net",
-    "latencyMs": 354,
+    "latencyMs": 342,
     "status": "online"
   },
   {
     "ip": "13.124.60.190",
-    "seed": "seed.btc.petertodd.net",
-    "latencyMs": 358,
+    "seed": "seed.bitcoin.sipa.be",
+    "latencyMs": 343,
     "status": "online"
   },
   {
     "ip": "134.199.167.150",
     "seed": "seed.btc.petertodd.net",
-    "latencyMs": 380,
+    "latencyMs": 361,
     "status": "online"
   },
   {
-    "ip": "172.104.172.142",
+    "ip": "118.113.202.183",
     "seed": "seed.btc.petertodd.net",
-    "latencyMs": 389,
+    "latencyMs": 419,
+    "status": "online"
+  },
+  {
+    "ip": "121.99.51.219",
+    "seed": "seed.btc.petertodd.net",
+    "latencyMs": 470,
+    "status": "online"
+  },
+  {
+    "ip": "23.239.29.184",
+    "seed": "seed.btc.petertodd.net",
+    "latencyMs": 755,
     "status": "online"
   }
 ]
